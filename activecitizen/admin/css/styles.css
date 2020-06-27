@@ -1,0 +1,42 @@
+.form_style{
+	background-color: #80b3ff;
+	color: black;
+	margin-top: 150px;
+	width: 900px;
+	height: 500px;
+	font-size: 19px;
+	padding-top: 30px;
+}
+
+#button{
+	width: 300px;
+	margin: 15px 0 0 250px;
+	border-radius: 10px;
+	font-weight: bold;
+	font-size: 19px;
+	background-color: black;
+	color: #80b3ff;
+}
+
+#button:hover{
+	background-color: #003380;
+	color: white;
+}
+
+#table_style{
+	/*color: pink;*/
+	font-size: 20px;
+	font-weight: bold;
+	/*font-style: italic;*/
+}
+
+#header-style1{ /*2 in sadmin page*/
+	margin-left: 10%;
+	color: #3385ff;
+}
+
+.error{
+	color: #ff0000;
+	font-size: 18px;
+	font-weight: bold;
+}
